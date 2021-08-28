@@ -30,6 +30,7 @@ git checkout {git_hash or branch_name}
 
 SSH keys:
 we have a public key and a private key
+we give the public key to github and we keep the private key safe on our computer
 
 When you create a new branch, to push run:
 git push -u origin {branch_name}
