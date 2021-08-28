@@ -25,3 +25,6 @@ git log
 to see the actual changes run:
 git show {git_hash}
 
+to checkout any branch or commit in time, run:
+git checkout {git_hash or branch_name}
+
