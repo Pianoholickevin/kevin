@@ -28,3 +28,5 @@ git show {git_hash}
 to checkout any branch or commit in time, run:
 git checkout {git_hash or branch_name}
 
+SSH keys:
+we have a public key and a private key
