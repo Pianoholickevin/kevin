@@ -13,3 +13,15 @@ Files first enter the unstaged area, they are red
 Then files enter the staged area, they are green
 
 Then files are committed, they are officially in git
+
+To commit a file:
+run: git commit
+write your message
+save and quit with :wq
+
+to show the logs of changes run:
+git log
+
+to see the actual changes run:
+git show {git_hash}
+
